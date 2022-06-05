@@ -1,1 +1,1 @@
-# Internshala-task-2
+# Web Chat Application using node.js and socket.io
